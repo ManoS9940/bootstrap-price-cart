@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-lg-4">
+        <div className="col">
           <section className="pricing py-5">
             <div className="row">
               <Free />

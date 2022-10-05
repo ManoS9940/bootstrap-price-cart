@@ -5,7 +5,7 @@ function Free() {
     <div className="col-lg-4">
        <div className="card-mb-5 mb-lg-0">
             <div className="card-body">
-                <h5 className="card-title text-muted text-uppercase text-muted">
+                <h5 className="card-title text-muted text-center text-uppercase text-muted">
                     Free
                 </h5>
                 <h6 className="card-price text-center">$0<span className="period">/month</span></h6>
